@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Saanthanu, aka ManjaLays.
-- 👦🏻 Developer in the Making 🚀 | Exploring MERN Stack & Python | Passionate About Web & App Experiences
-- 👀 I’m an aspiring Full Stack Web Developer passionate about building intuitive, responsive, and scalable web applications.
-- 💻 Tech I Use: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Git, Bootstrap.
-- 🌱 I’m currently learning React, Next.js, GitHub Actions, AWS basics.
-- 💞️ I love turning ideas into clean, functional products, and I’m constantly exploring new tools and frameworks to improve my workflow, especially React and modern backend stacks.
-- 📫 How to reach me => mail.saanthanuprasad@gmail.com | https://www.linkedin.com/in/its-saanthanu-prasad
-- 😄 Let’s connect — I’m always open to learning, collaboration, or just geeking out over cool tech!
+- 👋 Hi, I’m Saanthanu — aka ManjaLays.
+- 👨🏻‍💻 Aspiring Python Developer | Passionate About Building Data-Driven Web Applications & Scalable Backend Systems
+- 🐍 I enjoy building responsive web applications and automation tools using Python, Flask, Django, and data libraries like Pandas and OpenCV.
+- 📊 Currently exploring web scraping, REST API development, and real-time monitoring systems with a focus on clean architecture and performance.
+- 🛠️ Tech I work with: Python, Flask, Django, HTML, CSS, JavaScript, Node.js, MongoDB, MySQL, Git, Bootstrap, Figma
+- 🚀 Always experimenting with new tools and backend frameworks to enhance my workflow and build smarter solutions.
+- 📫 Reach me at: mail.saanthanuprasad@gmail.com | LinkedIn
+- 🤝 Let’s collaborate on meaningful tech — open to learning, building, or just talking code and cool ideas!
 
 <!---
 ManjaLays/ManjaLays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
