@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saanthanu — aka ManjaLays.
-- 👨🏻‍💻 Aspiring Python Developer | Passionate About Building Data-Driven Web Applications & Scalable Backend Systems
+- 👨🏻‍💻 Aspiring Developer | Passionate About Building Data-Driven Web Applications & Scalable Backend Systems
 - 🐍 I enjoy building responsive web applications and automation tools using Python, Flask, Django, and data libraries like Pandas and OpenCV.
 - 📊 Currently exploring web scraping, REST API development, and real-time monitoring systems with a focus on clean architecture and performance.
 - 🛠️ Tech I work with: Python, Flask, Django, HTML, CSS, JavaScript, Node.js, MongoDB, MySQL, Git, Bootstrap, Figma
